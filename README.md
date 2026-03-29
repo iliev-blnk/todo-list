@@ -16,7 +16,7 @@ The motivation behind this project stems from the fundamental need for personal 
 4. **Display**: New task appears in the task list
 5. **Mark Complete**: User clicks on task text to toggle completion status
 6. **Delete Task**: User clicks "Delete" button to remove task from list
-7. **Persistence**: Tasks remain visible until deleted or page is refreshed
+7. **Persistence**: Tasks remain visible until deleted
 
 ## Implementation Strategy
 
