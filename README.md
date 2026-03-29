@@ -1,6 +1,6 @@
-Mid-term project submission by Ilie Beleniuc for SEN204 - Internet and Web Programming course
-
 # To-Do List
+
+Mid-term project submission by Ilie Beleniuc for SEN204 - Internet and Web Programming course.
 
 ## Research Problem
 
