@@ -70,13 +70,14 @@ header h1 {
 
 .task-item {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     padding: 15px;
     background: #f9f9f9;
     border-radius: 5px;
     margin-bottom: 10px;
     transition: all 0.3s;
+    gap: 10px;
 }
 
 .task-item:hover {
@@ -88,6 +89,8 @@ header h1 {
     font-size: 16px;
     color: #333;
     cursor: pointer;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .task-item.completed .task-text {
