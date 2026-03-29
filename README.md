@@ -27,3 +27,6 @@ The To-Do List application follows a three-layer architecture:
 - **JavaScript Layer**: Uses event-driven DOM manipulation to add new tasks, toggle completion status, and remove tasks from the DOM
 
 The implementation uses vanilla JavaScript with event listeners attached to DOM elements, creating a lightweight and fast application without any external libraries or frameworks.
+
+
+https://todo-list-rho-eight-30.vercel.app/
